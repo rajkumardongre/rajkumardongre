@@ -1,21 +1,22 @@
-[![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajkumar Dongre</h1>
 <h3 align="center">Building a better world through open source technology</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumardongre&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumardongre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumardongre" alt="rajkumardongre" /></a> </p>
+- 🔭 I’m currently working on **LiberCube**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@rajkumardongre17](https://medium.com/@rajkumardongre17)
+- 👯 I’m looking to collaborate on **Machine Learning Project**
+
+- 📝 I regularly write articles on [https://medium.com/@rajkumardongre17](Medium)
 
 - 💬 Ask me about **Nodejs, MongoDB, Expressjs, JavaScript, Python, Java, HTML, CSS**
 
 - 📫 How to reach me **rajkumardongre17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing](https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing](Resume Link)
 
 - ⚡ Fun fact **I am Nature Lover**
 
