@@ -10,15 +10,15 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
-- 📝 I regularly write articles on [https://medium.com/@rajkumardongre17](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@rajkumardongre17)
 
 - 💬 Ask me about **Nodejs, MongoDB, Expressjs, JavaScript, Python, Java, HTML, CSS**
 
 - 📫 How to reach me **rajkumardongre17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing](Resume Link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing)
 
-- ⚡ Fun fact **I am Nature Lover**
+- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
