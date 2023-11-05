@@ -15,9 +15,8 @@
 
 - 📫 How to reach me **rajkumardongre17@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/11ULW2uMQyAE0JR1vfhNIhmgwzKh4ZRcC/view?usp=sharing](https://docs.google.com/document/d/1XpVcAg7vb0J9eVI4cEvPTWIYmm5h1TmBsPYJJIoOK4Y/edit?usp=sharing))
 
-- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
