@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project**
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@rajkumardongre17)
 
 - 💬 Ask me about **Nodejs, MongoDB, Expressjs, JavaScript, Python, Java, HTML, CSS**
