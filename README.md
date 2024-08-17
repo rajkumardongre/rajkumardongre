@@ -7,15 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumardongre&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumardongre" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m creator of [Youtube Playlist Guru](https://chromewebstore.google.com/detail/youtube-playlist-guru-tra/gobbhahdkkhjkboipabjjoaejakcdjhe)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@rajkumardongre17)
-
-- 💬 Ask me about **Nodejs, MongoDB, Expressjs, JavaScript, Python, Java, HTML, CSS**
+- 💬 Ask me about **Firebase, Chrome Extension, Electronjs, React, Nodejs, MongoDB, Expressjs, Typescript, Python, Java, HTML, CSS**
 
 - 📫 How to reach me **rajkumardongre17@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://docs.google.com/document/d/1XpVcAg7vb0J9eVI4cEvPTWIYmm5h1TmBsPYJJIoOK4Y/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
